@@ -1,3 +1,9 @@
+### forked PCAWG3 RNAseq STAR Pipeline
+
+Developer: github:akahles and github:kellrott
+
+***
+
 usage: star_align.py [options]
 
 ICGC RNA-Seq alignment wrapper for STAR alignments.
